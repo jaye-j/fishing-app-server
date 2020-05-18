@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "wrkwzckq",
+    "password": "jD04W4Z40uELFCCoePJ-xLGPJ0MUjitV",
+    "database": "wrkwzckq",
+    "host": "rajje.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "wrkwzckq",
+    "password": "jD04W4Z40uELFCCoePJ-xLGPJ0MUjitV",
+    "database": "wrkwzckq",
+    "host": "rajje.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "wrkwzckq",
+    "password": "jD04W4Z40uELFCCoePJ-xLGPJ0MUjitV",
+    "database": "wrkwzckq",
+    "host": "rajje.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
